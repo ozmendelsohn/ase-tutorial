@@ -1,0 +1,5 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 300.000000
+ GGA = PE
+ ICHARG = 2
+ ISYM = 2
