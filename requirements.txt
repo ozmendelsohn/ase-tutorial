@@ -1,0 +1,12 @@
+numpy
+matplotlib
+ipywidgets
+sgdml
+nglview
+scikit-learn
+scipy
+ipympl
+sgdml
+ase
+tqdm
+jupyter_contrib_nbextensions
