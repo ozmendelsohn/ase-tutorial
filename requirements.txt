@@ -9,5 +9,4 @@ ipympl
 sgdml
 ase
 tqdm
-kimpy
 jupyter_contrib_nbextensions
